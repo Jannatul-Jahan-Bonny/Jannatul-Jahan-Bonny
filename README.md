@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **BJIT Academy**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, Javascript, Python**
 
