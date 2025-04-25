@@ -6,9 +6,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **BJIT Academy**
+- 🔭 I’m currently studying in **TU Wien**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **R**
 
 - 💬 Ask me about **HTML, CSS, Javascript, Python**
 
